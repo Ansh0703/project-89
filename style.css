@@ -1,0 +1,47 @@
+body
+{
+	background-image:url("OIP.jpg");
+	background-position:center;
+	background-size:cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background:brown;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin-right:700px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+
+h1{
+   color:black;
+   margin-right:700px;
+}
+
+#button{
+	margin-right:700px;
+}
+
+h3{
+	color:white;
+}
+
+#label{
+	color:white;
+}
